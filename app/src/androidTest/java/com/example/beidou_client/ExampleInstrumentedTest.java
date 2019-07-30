@@ -1,4 +1,4 @@
-package com.example.beidou_client;
+package androidTest.java.com.example.beidou_client;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package com.example.beidou_client;
+package test.java.com.example.beidou_client;
 
 import org.junit.Test;
 

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_11" jdk="Android API 29 Platform" jdk_type="Android SDK">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<levels>
+		<level name="libs" value="project"/>
+		<level name="lib" value="project"/>
+		<level name="dists" value="project"/>
+	</levels>
+</component>
